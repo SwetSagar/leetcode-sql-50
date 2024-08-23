@@ -1,2 +1,3 @@
-# leetcode-sql-50
-Would contain solutions and learnings from leetcode SQL 50 study plan.
+# leetcode-sql-50 
+
+LeetCode SQL 50 solutions incomplete.
